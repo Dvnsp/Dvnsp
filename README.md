@@ -27,7 +27,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🔥 Mi Racha (Streak)</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvnsp&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=Dvnsp&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🐍 Mi Actividad</h3>
