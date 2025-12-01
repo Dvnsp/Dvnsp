@@ -19,10 +19,10 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Nombre de usuario de GitHub para generar el gráfico
+          # ESTO NO SE DEBE CAMBIAR, déjalo así:
           github_user_name: ${{ github.repository_owner }}
           
-          # Archivos de salida (el svg normal y el modo oscuro)
+          # Archivos de salida
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
