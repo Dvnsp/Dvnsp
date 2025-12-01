@@ -26,8 +26,8 @@
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🔥 Mi Racha (Streak)</h3>
-      <img src="https://streak-stats.demolab.com?user=Dvnsp&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+      <h3>💻 Mis Lenguajes Top</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvnsp&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🐍 Mi Actividad</h3>
