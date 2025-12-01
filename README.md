@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DuvánVargas&fontSize=70&animation=fadeIn&fontAlignY=35&desc=[Desarrollador%20Full%20Stack%20|%20Amante%20del%20Código]&descAlignY=55&descSize=20" alt="header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DuvánVargas&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20|%20Amante%20del%20Código&descAlignY=55&descSize=20" alt="header banner" width="100%" />
 </div>
 
 <h3 align="center">
@@ -17,19 +17,24 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Dvnsp&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>📊 Mis Estadísticas en GitHub</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="top languages" width="100%" />
+      <h3>🔥 Mi Racha (Streak)</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dvnsp&theme=radical&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
     <td width="50%" align="center" valign="top">
-  <h3>🐍 Mi Actividad </h3>
-  <a href="https://github.com/Dvnsp/Dvnsp/actions/workflows/snake.yml">
-    <img src="https://raw.githubusercontent.com/Dvnsp/Dvnsp/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-  </a>
-</td>
+      <h3>🐍 Mi Actividad</h3>
+      <a href="https://github.com/Dvnsp/Dvnsp/actions/workflows/snake.yml">
+        <img src="https://raw.githubusercontent.com/Dvnsp/Dvnsp/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -85,8 +90,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="TU_USUARIO"/></a>
-  <a href="https://twitter.com/TU_USUARIO" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TU_USUARIO"/></a>
-  <a href="mailto:TU_EMAIL@EJEMPLO.COM" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://linkedin.com/in/TU_USUARIO_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/TU_USUARIO_AQUI" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:TU_EMAIL@EJEMPLO.COM" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 </div>
