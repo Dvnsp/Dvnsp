@@ -24,13 +24,12 @@
       <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="github stats" width="100%" />
       <br/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="top languages" width="100%" />
-    </td>
     <td width="50%" align="center" valign="top">
-      <h3>🐍 Mi Actividad (Snake Game)</h3>
-      <a href="https://github.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/actions/workflows/snake.yml">
-        <img src="https://github.com/TU_USUARIO_DE_GITHUB/TU_USUARIO_DE_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
-      </a>
-    </td>
+  <h3>🐍 Mi Actividad (Snake Game)</h3>
+  <a href="https://github.com/Dvnsp/Dvnsp/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/Dvnsp/Dvnsp/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  </a>
+</td>
   </tr>
 </table>
 
